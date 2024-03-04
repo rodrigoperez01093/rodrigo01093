@@ -37,7 +37,7 @@ I am a Full Stack Developer currently working on the BioTech industry at Stämm.
 
 I'm from Buenos Aires, Argentina and I'm currently studying Systems Analyst. I have a good predisposition to teamwork as well as individually, I am proactive, with good communication skills and results-oriented.
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Typescript, MongoDB, React, Nextjs, PostgreSQL, etc. I've led diverse tech teams covering Frontend and Backend and building scalable products from scratch with the commitment to making a positive impact through technology.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Typescript, MongoDB, React, Nextjs, PostgreSQL, etc. I've contributed to diverse tech teams covering Frontend and Backend and building scalable products from scratch with the commitment to making a positive impact through technology.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
